@@ -1,0 +1,1 @@
+ /home/carton/Desktop/Ghost\ App/Delivery/Ghost-Delivery/.dart_tool/flutter_build/b146b50118125426bbc830a967478591/native_assets.yaml: 

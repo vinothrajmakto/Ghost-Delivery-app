@@ -1,0 +1,12 @@
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-jetified-annotation-experimental-1.1.0-0 /home/carton/.gradle/caches/transforms-3/0faa3ecb2ffa7fa8f3df3815745facff/transformed/jetified-annotation-experimental-1.1.0/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-jetified-window-1.0.0-beta04-1 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-core-1.6.0-2 /home/carton/.gradle/caches/transforms-3/98796e98442010cd2e2c22ad8115b3cd/transformed/core-1.6.0/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-jetified-window-java-1.0.0-beta04-3 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-main-4 /home/carton/.pub-cache/hosted/pub.dev/country_codes-3.1.0+2/android/src/main/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-release-5 /home/carton/.pub-cache/hosted/pub.dev/country_codes-3.1.0+2/android/src/release/res
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-pngs-6 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/generated/res/pngs/release
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-resValues-7 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/generated/res/resValues/release
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-rs-8 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/generated/res/rs/release
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-mergeReleaseResources-9 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-mergeReleaseResources-10 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.miguelruivo.flutter.plugin.countrycodes.country_codes-merged_res-11 /home/carton/Desktop/Ghost App/Delivery/Ghost-Delivery/build/country_codes/intermediates/merged_res/release
